@@ -1,0 +1,15 @@
+jQuery Plugins
+---
+
+Slick Nav - https://computerwolf.github.io/SlickNav/
+
+Counter Plugin
+
+Carousel / Slider
+
+====
+
+Git - Version Control System
+
+Step 1 - git init 
+Step 2 - git add *
